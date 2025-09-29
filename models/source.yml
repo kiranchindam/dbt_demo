@@ -1,0 +1,13 @@
+sources:
+  - name: s1
+    database: practice
+    schema: practice_schema
+    tables:
+      - name: t_nation
+      
+      - name: employeeses
+      
+      - name: t_customer
+
+      - name: t_tickets_info
+      
